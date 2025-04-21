@@ -1,0 +1,95 @@
+{
+    "results": [
+        {
+            "company": "Apple Inc.",
+            "symbol": "AAPL",
+            "analysis": "\n        Sentiment Summary: Neutral outlook for Apple Inc..\n        \n        Key Factors:\n        1. No real-time analysis available - using default neutral position\n        2. Consider setting up either LLAMA model or OpenAI API for proper analysis\n        \n        Sentiment Score: 3.0 (neutral)\n        ",
+            "raw_score": 3.0,
+            "model_used": "Mock (no available LLM)",
+            "weight": 3,
+            "weight_description": "Neutral - Stable price outlook"
+        },
+        {
+            "company": "Microsoft Corporation",
+            "symbol": "MSFT",
+            "analysis": "\n        Sentiment Summary: Neutral outlook for Microsoft Corporation.\n        \n        Key Factors:\n        1. No real-time analysis available - using default neutral position\n        2. Consider setting up either LLAMA model or OpenAI API for proper analysis\n        \n        Sentiment Score: 3.0 (neutral)\n        ",
+            "raw_score": 3.0,
+            "model_used": "Mock (no available LLM)",
+            "weight": 3,
+            "weight_description": "Neutral - Stable price outlook"
+        },
+        {
+            "company": "NVIDIA Corporation",
+            "symbol": "NVDA",
+            "analysis": "\n        Sentiment Summary: Neutral outlook for NVIDIA Corporation.\n        \n        Key Factors:\n        1. No real-time analysis available - using default neutral position\n        2. Consider setting up either LLAMA model or OpenAI API for proper analysis\n        \n        Sentiment Score: 3.0 (neutral)\n        ",
+            "raw_score": 3.0,
+            "model_used": "Mock (no available LLM)",
+            "weight": 3,
+            "weight_description": "Neutral - Stable price outlook"
+        },
+        {
+            "company": "Alphabet Inc.",
+            "symbol": "GOOGL",
+            "analysis": "\n        Sentiment Summary: Neutral outlook for Alphabet Inc..\n        \n        Key Factors:\n        1. No real-time analysis available - using default neutral position\n        2. Consider setting up either LLAMA model or OpenAI API for proper analysis\n        \n        Sentiment Score: 3.0 (neutral)\n        ",
+            "raw_score": 3.0,
+            "model_used": "Mock (no available LLM)",
+            "weight": 3,
+            "weight_description": "Neutral - Stable price outlook"
+        },
+        {
+            "company": "Amazon.com Inc.",
+            "symbol": "AMZN",
+            "analysis": "\n        Sentiment Summary: Neutral outlook for Amazon.com Inc..\n        \n        Key Factors:\n        1. No real-time analysis available - using default neutral position\n        2. Consider setting up either LLAMA model or OpenAI API for proper analysis\n        \n        Sentiment Score: 3.0 (neutral)\n        ",
+            "raw_score": 3.0,
+            "model_used": "Mock (no available LLM)",
+            "weight": 3,
+            "weight_description": "Neutral - Stable price outlook"
+        },
+        {
+            "company": "Meta Platforms Inc.",
+            "symbol": "META",
+            "analysis": "\n        Sentiment Summary: Neutral outlook for Meta Platforms Inc..\n        \n        Key Factors:\n        1. No real-time analysis available - using default neutral position\n        2. Consider setting up either LLAMA model or OpenAI API for proper analysis\n        \n        Sentiment Score: 3.0 (neutral)\n        ",
+            "raw_score": 3.0,
+            "model_used": "Mock (no available LLM)",
+            "weight": 3,
+            "weight_description": "Neutral - Stable price outlook"
+        },
+        {
+            "company": "Berkshire Hathaway Inc.",
+            "symbol": "BRK.A",
+            "analysis": "\n        Sentiment Summary: Neutral outlook for Berkshire Hathaway Inc..\n        \n        Key Factors:\n        1. No real-time analysis available - using default neutral position\n        2. Consider setting up either LLAMA model or OpenAI API for proper analysis\n        \n        Sentiment Score: 3.0 (neutral)\n        ",
+            "raw_score": 3.0,
+            "model_used": "Mock (no available LLM)",
+            "weight": 3,
+            "weight_description": "Neutral - Stable price outlook"
+        },
+        {
+            "company": "Tesla, Inc.",
+            "symbol": "TSLA",
+            "analysis": "\n        Sentiment Summary: Neutral outlook for Tesla, Inc..\n        \n        Key Factors:\n        1. No real-time analysis available - using default neutral position\n        2. Consider setting up either LLAMA model or OpenAI API for proper analysis\n        \n        Sentiment Score: 3.0 (neutral)\n        ",
+            "raw_score": 3.0,
+            "model_used": "Mock (no available LLM)",
+            "weight": 3,
+            "weight_description": "Neutral - Stable price outlook"
+        },
+        {
+            "company": "Visa Inc.",
+            "symbol": "V",
+            "analysis": "\n        Sentiment Summary: Neutral outlook for Visa Inc..\n        \n        Key Factors:\n        1. No real-time analysis available - using default neutral position\n        2. Consider setting up either LLAMA model or OpenAI API for proper analysis\n        \n        Sentiment Score: 3.0 (neutral)\n        ",
+            "raw_score": 3.0,
+            "model_used": "Mock (no available LLM)",
+            "weight": 3,
+            "weight_description": "Neutral - Stable price outlook"
+        },
+        {
+            "company": "UnitedHealth Group Inc.",
+            "symbol": "UNH",
+            "analysis": "\n        Sentiment Summary: Neutral outlook for UnitedHealth Group Inc..\n        \n        Key Factors:\n        1. No real-time analysis available - using default neutral position\n        2. Consider setting up either LLAMA model or OpenAI API for proper analysis\n        \n        Sentiment Score: 3.0 (neutral)\n        ",
+            "raw_score": 3.0,
+            "model_used": "Mock (no available LLM)",
+            "weight": 3,
+            "weight_description": "Neutral - Stable price outlook"
+        }
+    ],
+    "timestamp": "2025-04-20 20:07:28"
+}

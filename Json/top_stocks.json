@@ -1,0 +1,72 @@
+[
+  {
+    "symbol": "AAPL",
+    "name": "Apple Inc.",
+    "stock_price": "193.16",
+    "marketCap": "2,901.66B",
+    "rank": 1
+  },
+  {
+    "symbol": "MSFT",
+    "name": "Microsoft Corporation",
+    "stock_price": "359.12",
+    "marketCap": "2,669.69B",
+    "rank": 2
+  },
+  {
+    "symbol": "NVDA",
+    "name": "NVIDIA Corporation",
+    "stock_price": "96.91",
+    "marketCap": "2,364.60B",
+    "rank": 3
+  },
+  {
+    "symbol": "GOOG",
+    "name": "Alphabet Inc.",
+    "stock_price": "149.86",
+    "marketCap": "1,854.73B",
+    "rank": 4
+  },
+  {
+    "symbol": "GOOGL",
+    "name": "Alphabet Inc.",
+    "stock_price": "147.67",
+    "marketCap": "1,800.10B",
+    "rank": 5
+  },
+  {
+    "symbol": "AMZN",
+    "name": "Amazon.com, Inc.",
+    "stock_price": "167.32",
+    "marketCap": "1,775.66B",
+    "rank": 6
+  },
+  {
+    "symbol": "META",
+    "name": "Meta Platforms, Inc.",
+    "stock_price": "484.66",
+    "marketCap": "1,227.96B",
+    "rank": 7
+  },
+  {
+    "symbol": "BRK.B",
+    "name": "Berkshire Hathaway Inc.",
+    "stock_price": "506.75",
+    "marketCap": "1,118.78B",
+    "rank": 8
+  },
+  {
+    "symbol": "BRK.A",
+    "name": "Berkshire Hathaway Inc.",
+    "stock_price": "760,489",
+    "marketCap": "1,094.09B",
+    "rank": 9
+  },
+  {
+    "symbol": "AVGO",
+    "name": "Broadcom Inc.",
+    "stock_price": "166.21",
+    "marketCap": "781.51B",
+    "rank": 10
+  }
+]
